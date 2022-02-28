@@ -1,0 +1,276 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A manifestation of prayer in formality, and prayer in the spirit of God.</title>
+            <author>Smith, William, d. 1673.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1663</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93426</idno>
+            <idno type="STC">Wing S4314</idno>
+            <idno type="STC">ESTC R184395</idno>
+            <idno type="EEBO-CITATION">43078146</idno>
+            <idno type="OCLC">ocm 43078146</idno>
+            <idno type="VID">151724</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93426)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151724)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2274:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A manifestation of prayer in formality, and prayer in the spirit of God.</title>
+                  <author>Smith, William, d. 1673.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1663]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed W.S. (i.e. William Smith).</note>
+                  <note>Date of publication suggested by Wing.</note>
+                  <note>Reproduction of original in: British Library, London, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Prayer --  Christianity --  Early works to 1800.</term>
+               <term>Prayer --  England --  Early works to 1800.</term>
+               <term>Broadsides --  London (England) --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-07</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-11</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-11</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:151724:1" rendition="simple:additions"/>
+            <head>A Manifeſtation of Prayer in Formality,
+and Prayer in the Spirit of God.</head>
+            <p>IT hath been a Common Obſervation through Ages and Generations, to perform
+ſomething as a duty unto God by way of Prayer; and this Common Obſerva<g ref="char:EOLhyphen"/>tion
+hath deſcended from one Generation to another (ever ſince the Apoſtacy
+entred) in a cuſtomary and formal way, ſtill obſerving the practice in words,
+and continuing the ſame as a duty unto God in the ſame manner and form, not at all
+regarding or conſidering the preſent want, or neceſſity of the preſent Age or Genera<g ref="char:EOLhyphen"/>tion,
+nor the preſent ſtates and conditions of particular people, but praying in the <hi>ſame
+words,</hi> and in the <hi>ſame form,</hi> from time to time, and from Generation to Generation;
+and ſo it flows, as a natural ſtream in a common and cuſtomary practice from one Ge<g ref="char:EOLhyphen"/>neration
+to another: and hence it is that people continue asking, but do not receive,
+<hi>becauſe they ask amiſs,</hi> not feeling the Spirit that makes interceſſion: and ſo the <hi>Pha<g ref="char:EOLhyphen"/>riſees</hi>
+made long prayers, but received the greater damnation, becauſe they prayed
+not in the Spirit, but in the cuſtomary formality, which by the Spirit was condemned.
+And it is very ſad, that people ſhould all their life-time be complaining and asking,
+and never come to receive ſatisfaction; and this in the common way of Prayer in this
+preſent Generation, who have many prayers in formed words, and with their mouths
+do often repeat them, and in the formality make a practice of them, and ſo at ſet-times,
+and in ſet-prayers ſpend away their dayes, but feel not the Lord nor his good<g ref="char:EOLhyphen"/>neſs.
+And this Common way of Prayer now uſed in the Common Worſhip, never
+brings people to obtain, but keeps them alwayes asking; where, in anſwer to the
+Commandments, they pray on this wiſe, <hi>Lord have mercy upon us, and encline our
+hearts to keep this Law; and write all theſe thy Laws in our hearts, we beſeech thee.</hi> Now
+if they would encline their hearts to the Spirit of God in themſelves, and obey it, then
+the Spirit would encline their hearts to keep God's Law, and the Spirit would write
+his Law in their hearts, and put it into their inward parts, and it would keep them that
+they ſhould not depart from it, and there they would feel God's mercies, and ſo come
+to receive an anſwer of their prayers: For when the heart of man doth not encline
+to the Spirit of God, it is in rebellion againſt him, and God doth not ſhew mercy to
+the rebellious; and ſo people paſs over their time in words, but want the Life which
+ſhould do them good, and when they come to finiſh their dayes, their hearts are as far
+off from Gods Law, as the firſt day when they began to pray that he would incline their
+hearts to keep it; and they have no aſſurance that God will ſhew them mercy, though
+they have been praying in words all their life-time: And likewiſe in anſwer to the
+<hi>Lettany,</hi> where they pray after this manner; <hi>Good Lord deliver us;</hi> and, <hi>We beſeech
+thee to hear us good Lord;</hi> and this is the ſame in their latter dayes as in the beginning;
+and it is manifeſt, that they are not delivered from thoſe things as in words they pray
+to be delivered from, nor are not heard in thoſe things which they beſeech the Lord
+to hear them in, and ſo they ſpend their daies in obſerving a cuſtomary formality,
+and never come to any aſſurance that they are delivered, or that their requeſts are
+heard, and anſwered. And again, in that which they call the <hi>Creed,</hi> they confeſs they
+believe in God; now they that believe in God, their hearts are enclined to keep his
+Law, and he ſhews them Mercy, and hears them, and delivers them, for they that be<g ref="char:EOLhyphen"/>lieve
+in God they do his will; and if any man do his will, him he heareth. And then
+again, they confeſs <hi>that they are miſerable ſinners, and do thoſe things they ought not to do;</hi>
+and if ſo, then not Believers; for they that believe in Chriſt are not miſerable ſin<g ref="char:EOLhyphen"/>ners,
+neither do thoſe things they ought not to do, but by believing in Chriſt they
+are ſaved, and he takes away their ſin that makes them miſerable, and ſets them free
+from their miſery, and they do thoſe things that are well-pleaſing in his ſight; for
+they that truly believe in Chriſt, they do not only confeſs their ſins, but alſo forſake
+them, and ſo find mercy with the Lord; and they are not alwayes complaining, that
+they do thoſe things they ought not to do, but know his Will and do it, and are bleſ<g ref="char:EOLhyphen"/>ſed
+in their deed. And again, in that which they call the <hi>Lord's Prayer,</hi> they gene<g ref="char:EOLhyphen"/>rally
+ſay, <hi>Our Father:</hi> Now the Children of God are not miſerable ſinners, nor do not
+thoſe things they ought not to do; for <hi>whoſoever is born of God, doth not commit ſin;</hi>
+and <hi>whoſoever ſinneth, hath not ſeen him, neither known him;</hi> and there are not any
+that believe in God, or can call God <hi>Father</hi> in truth but thoſe that are born of him;
+for thoſe that are born of fleſh and of blood, and of the will of man, they do not be<g ref="char:EOLhyphen"/>lieve
+in God, neither can truly call God <hi>Father:</hi> for that is the nature in which ſin is
+committed, which makes people miſerable; and that is the nature in which they do
+thoſe things they ought not to do; and that is the nature in which there is no ſaving
+health; and there is not any prayer accepted of God, which in that nature is per<g ref="char:EOLhyphen"/>formed:
+for none in the fleſh can pleaſe God; and whatſoever is offered unto him in
+that nature he doth not regard it, for it is the nature from which all wickedneſs
+proceedeth, and <hi>the prayers of the wicked are an abomination unto God:</hi> and though
+there may be many which may deny the Common way of Prayer, as it is uſed in the
+Common Worſhip, and ſet up ſome other way of Prayer, as more excellent; yet
+whilſt the fleſh and blood, and will of man conceives it, and performs it, there is
+no difference in the ground, between that which they deny, and that which they ſet
+up and practiſe; neither doth God regard it any more than that which they deny:
+and though ſuch Prayers may not appear ſo formal, as thoſe that are commonly uſed
+in the Common Worſhip, yet they are conceived in the very ſame womb, and do
+not at all differ in the ground: for as the wiſdom of the fleſh hath compoſed ſo many
+ſet-prayers in words, and hath preſcribed a way to obſerve and practiſe the ſame,
+and that none is either to add or diminiſh as to what is ſo compoſed; even ſo, the
+ſame wiſdom may deny that preſcribed way, as being formal, and may invent ſome<g ref="char:EOLhyphen"/>thing
+inſtead of it, in a higher myſtery of iniquity; and though they may not ſpeak in
+ſuch formal compoſed words, yet in the ſame wiſdom, their words are formal, not at
+all differing in the ground or conception, but onely in the expreſſion and obſer<g ref="char:EOLhyphen"/>vation,
+and in their practice it is as formal as that which they deny; for they
+have a conſtant obſervation by way of Prayer, in what they practiſe, which in it ſelf
+is as formal as the ſet-prayers commonly uſed in the Common Worſhip; for they can
+ſet their own time both to begin and to make an end; and when they will they can
+utter words, and when they will they can be ſilent; and they have their own con<g ref="char:EOLhyphen"/>ceptions
+at command, and can either perform or not perform in their own time; and
+this is the unclean part which offers unto God, which he doth not accept, neither is
+any Prayer regarded or accepted of God but the Prayer which is offered to him by his
+own birth. So that theſe few things being ſeriouſly conſidered, it is manifeſt, that
+the way of Prayer, as it is now commonly uſed, obſerved, and practiſed in the Com<g ref="char:EOLhyphen"/>mon
+Worſhip, is not true Prayer, but a bare formality, and not only ſo, but alſo contra<g ref="char:EOLhyphen"/>dictory,
+and ſo is not performed with a right underſtanding; and it is as manifeſt that
+all other wayes of praying, which are conceived and performed in the wiſdom of the
+fleſh, is not true Prayer, neither doth God regard it more than the other, becauſe it
+is performed in the ſame nature, and differs in nothing but in the manner; and how<g ref="char:EOLhyphen"/>ever
+they may differ in the practice, yet they meet in the ground, and are offered up
+in the unclean part, and ſo are not performed with an underſtanding, as Prayer in the
+Spirit of God is.</p>
+            <p>Now the Spirit of Life, which is manifeſt from God in every mans conſcience,
+doth ſo enlighten him, as to make him ſenſible that he is a ſinner, and in himſelf is
+miſerable, and eternally liable to the Wrath of God, without the Lord appear for him,
+and work his deliverance; and as man takes heed to that Spirit which doth ſo enligh<g ref="char:EOLhyphen"/>ten
+him, and makes manifeſt his condition to him, then the Spirit begins to quicken and
+ſtir up ſomething in him that deſires after God, and breathes after God, and the ſighs
+and groans begin to ariſe in a true ſence of miſery, and the breathings go forth in
+the earneſt of the Spirit unto God, and the cry ariſes for help and deliverance; and
+though that which is quickned by the Spirit, to breath in the Spirit, be but as a babe
+in youngneſs, and that it doth not know what to pray for as it ought, but ſtands ſigh<g ref="char:EOLhyphen"/>ing,
+and groaning, and mourning, in the ſence of burdens, weights and loads that lie
+upon it, yet the Spirit in that ſtate helpeth its infirmities, and makes requeſt for it ac<g ref="char:EOLhyphen"/>cording
+to the will of God, for the Spirit knowes what the Babe wants, and with
+what it is burdened, and ſo makes interceſſion unto God for it; and in the Spirit the
+Babe hath acceſs to God; and though it be but young, yet it cryes <hi>Abba,</hi> Father, and
+ſo it breathes in the Spirit, and cryes in the Spirit, and prayes to the Father in the Spi<g ref="char:EOLhyphen"/>rit:
+and the ſighs and groans do riſe from a true ſence of its own weakneſs, and the
+want of Gods Mercies; for it underſtands in the Spirit what it wants, and is ſenſi<g ref="char:EOLhyphen"/>ble
+what burdens lye upon it, and in the Spirit it draws nigh to God, and ſubmits its
+ſelf to the Throne of his Grace, and there finds Grace to help it in its need, for the
+Spirit brings relief from the boſome of the Father, and ſupplies the Babe in all its
+wants, and every breathing is miniſtred unto by the Spirit; and here the Babe prayes
+aright, and asketh according to the will of God, and he hears its complainings, and
+in his compaſſion he anſwereth its petitions, and ſo it comes to receive from his own
+hand, and he gives unto it daily bread, and nouriſhes it with his own virtue, after
+which it breatheth, and ſtands by it to help it in the hour of temptation, and ſo the
+Babe begotten by the Spirit, prayes in the Spirit, and receive; from the Spirit, and is
+ſtrengthened with the virtue of the Spirit; and this is true Prayer, though never
+a word be ſpoken through utterance: for the Babe breathes in the Spirit and cryes in
+the Spirit, and prayes in the Spirit; and as it ſo breathes, and cryes and prayes in ſe<g ref="char:EOLhyphen"/>cret;
+even ſo the Father which ſeeth in ſecret, doth reward it openly, and by his
+Power removes the burdens from it, and with his own Hand lifteth up its head, and
+in his own time he delivereth it out of all troubles; and from its quickning and firſt
+breathing it goes on from ſtrength to ſtrength, and from virtue to virtue, even as by
+the Spirit of the Lord; and having received ſtrength in the Spirit, then by the Spirit it
+hath utterance given, and can utter words by the help of the Spirit, and ſo prayes in
+the Spirit, and prayes with an underſtanding; and that which it expreſſeth in words
+by the help of the Spirit, and by the ſtrength of the Spirit, that is a comfort to every
+Babe that is breathing in the ſame Spirit; and ſo the Babes begotten by the Spirit,
+pray in the unity of the Spirit, and their Prayers return into their boſome, and are
+anſwered with a ſeal of the ſame Spirit; for they ask in the Name of Chriſt, and in
+his Name they receive their ſatisfaction; and ſo here is a time of ſighing, and
+groaning, and mourning, and complaining; and a time of breathing, and crying, and
+praying; and a time of receiving and rejoycing, wherein the Babes of Life do
+come to inherit that which they have breathed after, and ſo come to the living praiſes
+unto God, who hath anſwered their Prayers in the riches of his Grace and Mercy.</p>
+            <p>So all muſt come to the Spirit of God, by the Spirit to be ordered, and ceaſe from
+their own words and from their own time, and learn to be ſilent until the Spirit give
+them utterance; for the Lord is weary of all Formality and Hypocriſie, and he hath
+no pleaſure in any ſuch performances; for his Controverſie is againſt the <hi>Son of Per<g ref="char:EOLhyphen"/>dition,</hi>
+but he will exalt the <hi>Son of his Love;</hi> and bleſſed are they that are born of his
+Life, for whatſoever they ask in his Name, their Petitions are anſwered, and their
+Requeſts granted, and the Prayers of ſuch are only accepted, and not the prayers of
+thoſe that think to be heard for their much babling, who have many words, but not
+in the Life.</p>
+            <closer>
+               <signed>W. S.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
